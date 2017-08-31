@@ -12,5 +12,5 @@ A script to update and install some essentials on a centos-minimal vm.
 #### inventory.ini
 Ansible inventory file for a bring your own (byo) openshift-ansible playbook.
 
-#### setup.sh
+#### mohawk.sh
 A script file to spin up a metrics micro-service for openshift
