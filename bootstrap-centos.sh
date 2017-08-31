@@ -2,7 +2,7 @@
 
 # run this script from a machine connected to your cehnos machine
 # ./bootstrap-centos.sh <machine url>
-# e.g. when run script source dir:
+# e.g. when run script in source dir:
 #      ./bootstrap-centos.sh openshift.example.com
 
 if [ "$#" -eq 1 ]
