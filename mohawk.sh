@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# wget https://raw.githubusercontent.com/yaacov/AP-2017-OpenShift/master/mohawk.sh
+
 # run this script from the master openshift
 # ./mohawk.sh <machine url>
 # e.g. when run in script source dir:
